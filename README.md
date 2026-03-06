@@ -1,2 +1,2 @@
-# journal-journey-d
+# sample
 a simple daily journaling idea project
