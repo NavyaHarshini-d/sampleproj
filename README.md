@@ -1,2 +1,2 @@
 # sample
-a simple daily journaling idea project
+sample project
